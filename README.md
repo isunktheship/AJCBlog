@@ -1,4 +1,4 @@
 AJCBlog
 =======
 
-AJCBlog
+First RoR site.
